@@ -4,7 +4,7 @@ import './Home.css';
 
 function Skills() {
   return (
-<section className="home">
+<section className="skills">
    frome skills
 </section>
    );
